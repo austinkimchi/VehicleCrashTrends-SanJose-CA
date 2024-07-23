@@ -4,7 +4,7 @@
  Published Date: 06/24/2023
 
 ## Introduction
-This research aims to analyze vehicle crash incidents in San Jose, CA, from 2011 to June 18, 2023, using data from the [San Jose CA Open Data Portal](https://data.sanjoseca.gov/dataset/crashes-data). </br> The study addresses the rising concerns about traffic safety and the increase in vehicular accidents in the area.
+This research aims to analyze vehicle crash incidents in San Jose, CA, from 2011 to June 18, 2023, using data from the [San Jose CA Open Data Portal](https://data.sanjoseca.gov/dataset/crashes-data). </br> This observatory study will address any concerns about traffic safety and the increase in vehicular accidents in the area.
 
 ## Background
 The data for this research comes from two primary sources provided by the [San Jose CA Open Data Portal](https://data.sanjoseca.gov/dataset/crashes-data):
