@@ -2,6 +2,8 @@
  Author: Austin Kim
  
  Published Date: 06/24/2023
+> [!TIP]
+> To view in PDF format click [here](https://github.com/austinkimchi/VehicleCrashTrends-SanJose-CA/blob/main/Exploratory%20Study%20on%20Vehicle%20Crash%20Trends%20in%20San%20Jose%2C%20CA.pdf).
 
 ## Introduction
 This research aims to analyze vehicle crash incidents in San Jose, CA, from 2011 to June 18, 2023, using data from the [San Jose CA Open Data Portal](https://data.sanjoseca.gov/dataset/crashes-data). </br> This observatory study will address any concerns about traffic safety and the increase in vehicular accidents in the area.
